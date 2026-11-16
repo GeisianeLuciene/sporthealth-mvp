@@ -58,3 +58,5 @@ Este repositório foi construído seguindo rigorosos padrões da engenharia de s
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/GeisianeLuciene/sporthealth-mvp.git](https://github.com/GeisianeLuciene/sporthealth-mvp.git)
+
+Desenvolvido por Geisiane Luciene
